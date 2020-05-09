@@ -43,7 +43,7 @@ public final class Car extends Vehicle {
         car2.setMake("Honda");
         car2.setExColor(ExteriorColor.blue);
         car2.setNumOfDoors(NumDoors.four);
-        car2.setPrice("$22,899");
+        car2.setPrice("22899.99");
         car2.setMileage("15,000");
 
         Vehicle car3 = new Vehicle("1R5THU33");
@@ -54,7 +54,7 @@ public final class Car extends Vehicle {
         car3.setMake("Chevrolet");
         car3.setExColor(ExteriorColor.black);
         car3.setNumOfDoors(NumDoors.two);
-        car3.setPrice("$41,899");
+        car3.setPrice("41899.99");
         car3.setMileage("17,000");
 
         Vehicle car4 = new Vehicle("1GPT8659");
@@ -65,7 +65,7 @@ public final class Car extends Vehicle {
         car4.setMake("Ford");
         car4.setExColor(ExteriorColor.grey);
         car4.setNumOfDoors(NumDoors.two);
-        car4.setPrice("$34,899");
+        car4.setPrice("34899.99");
         car4.setMileage("12,000");
 
         Vehicle car5 = new Vehicle("1TJGNK456");
@@ -76,7 +76,7 @@ public final class Car extends Vehicle {
         car5.setMake("Ford");
         car5.setExColor(ExteriorColor.black);
         car5.setNumOfDoors(NumDoors.four);
-        car5.setPrice("$34,899");
+        car5.setPrice("34899.99");
         car5.setMileage("10,000");
 
 

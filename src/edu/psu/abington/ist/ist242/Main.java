@@ -24,6 +24,7 @@ public class Main {
      */
     public static void main(String[] args) {
 
+
         Menu menu = new Menu(); // create a new instance of the MENU CLASS and then call MENUS methods
         menu.runMenu(); // calling menus methods but can only call the PUBLIC method
 

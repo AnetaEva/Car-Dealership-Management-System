@@ -61,6 +61,16 @@ public class Vehicle {
      */
     protected NumDoors numOfDoors;
 
+    public Vehicle(String _vin) { //constructor for car vin
+    }
+
+    /**
+     * Empty Car Constructor
+     */
+    public Vehicle() {
+
+    }
+
 
     /**
      * Getter for Enum Exterior Color
@@ -214,15 +224,7 @@ public class Vehicle {
      * Car Constructor
      * @param vin this is the first parameter of Car Constructor
      */
-    public Vehicle(String vin) { //constructor for car vin
-    }
 
-    /**
-     * Empty Car Constructor
-     */
-    public Vehicle() {
-
-    }
 
 
 

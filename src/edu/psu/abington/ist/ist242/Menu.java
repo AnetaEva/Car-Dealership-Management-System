@@ -63,8 +63,8 @@ public class Menu {
      */
     private void printHeader() { //just the printing out of the header
         System.out.println("---------------------------------------------------------");
-        System.out.println("                 PSU Car Dealership                      ");
-        System.out.println("                    by: Team 4                           ");
+        System.out.println("                   Car Dealership                        ");
+        System.out.println("                        by:                              ");
         System.out.println("                  Aneta O'Donnell                        ");
         System.out.println("---------------------------------------------------------");
     }
